@@ -5,7 +5,7 @@ int main()
 	int i=1;
 	int n;
 	cin>>n;
-	while(i<=n)
+	while(i<=n-1)
 	{
 		int j=i;
 		while(j<=i)
