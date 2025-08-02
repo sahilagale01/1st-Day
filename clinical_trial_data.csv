@@ -1,0 +1,882 @@
+trial_id,therapeutic_area,primary_region,recruitment_strategy,trial_duration_months,number_of_sites,site_type,patient_age_range,disease_prevalence,average_patients_per_site_per_month
+1910001,Oncology,North America,Online,12,10,Academic,18-65,0.02,2.5
+1910002,Cardiology,Europe,Physician Referral,18,15,Hospital,40-80,0.05,3.2
+1910003,Neurology,Asia,Community Outreach,24,8,Private Clinic,18-50,0.01,1.8
+1910004,Oncology,Latin America,Online,15,12,Academic,18-65,0.03,2.7
+1910005,Endocrinology,North America,Physician Referral,9,20,Hospital,30-70,0.08,4.1
+1910006,Neurology,Africa,Community Outreach,20,5,Private Clinic,18-40,0.015,1.5
+1910007,Cardiology,Europe,Online,10,18,Academic,40-80,0.06,3.5
+1910008,Oncology,Asia,Physician Referral,14,10,Hospital,18-65,0.025,2.3
+1910009,Endocrinology,North America,Community Outreach,16,25,Private Clinic,30-70,0.07,3.9
+1910010,Neurology,Latin America,Online,12,7,Academic,18-50,0.012,1.9
+1910011,Oncology,North America,Physician Referral,18,14,Hospital,18-65,0.03,2.8
+1910012,Cardiology,Europe,Community Outreach,22,9,Private Clinic,40-80,0.04,3
+1910013,Endocrinology,Asia,Online,11,16,Academic,30-70,0.09,4.2
+1910014,Neurology,Africa,Physician Referral,19,6,Hospital,18-40,0.01,1.6
+1910015,Oncology,North America,Community Outreach,13,12,Private Clinic,18-65,0.022,2.4
+1910016,Cardiology,Latin America,Online,17,10,Academic,40-80,0.05,3.3
+1910017,Endocrinology,Europe,Physician Referral,15,20,Hospital,30-70,0.08,4
+1910018,Neurology,Asia,Community Outreach,21,8,Private Clinic,18-50,0.013,1.7
+1910019,Oncology,North America,Online,12,15,Academic,18-65,0.02,2.6
+1910020,Cardiology,Europe,Physician Referral,20,11,Hospital,40-80,0.06,3.4
+1910021,Endocrinology,Africa,Community Outreach,14,18,Private Clinic,30-70,0.07,3.8
+1910022,Neurology,Latin America,Online,16,9,Academic,18-40,0.011,1.8
+1910023,Oncology,North America,Physician Referral,13,13,Hospital,18-65,0.03,2.9
+1910024,Cardiology,Asia,Community Outreach,19,7,Private Clinic,40-80,0.05,3.1
+1910025,Endocrinology,Europe,Online,10,22,Academic,30-70,0.09,4.3
+1910026,Neurology,Africa,Physician Referral,18,6,Hospital,18-50,0.014,1.6
+1910027,Oncology,North America,Community Outreach,15,14,Private Clinic,18-65,0.021,2.5
+1910028,Cardiology,Latin America,Online,12,10,Academic,40-80,0.06,3.2
+1910029,Endocrinology,Europe,Physician Referral,16,19,Hospital,30-70,0.08,4.1
+1910030,Neurology,Asia,Community Outreach,20,8,Private Clinic,18-40,0.012,1.7
+1910031,Oncology,North America,Online,14,12,Academic,18-65,0.02,2.7
+1910032,Cardiology,Europe,Physician Referral,17,15,Hospital,40-80,0.05,3.3
+1910033,Endocrinology,Asia,Community Outreach,13,20,Private Clinic,30-70,0.07,3.9
+1910034,Neurology,Latin America,Online,11,9,Academic,18-50,0.015,1.8
+1910035,Oncology,North America,Physician Referral,19,13,Hospital,18-65,0.03,2.8
+1910036,Cardiology,Africa,Community Outreach,15,7,Private Clinic,40-80,0.04,3
+1910037,Endocrinology,Europe,Online,12,16,Academic,30-70,0.08,4.2
+1910038,Neurology,Asia,Physician Referral,18,10,Hospital,18-40,0.013,1.6
+1910039,Oncology,North America,Community Outreach,14,14,Private Clinic,18-65,0.022,2.5
+1910040,Cardiology,Latin America,Online,16,11,Academic,40-80,0.05,3.4
+1910041,Endocrinology,Europe,Physician Referral,13,18,Hospital,30-70,0.07,4
+1910042,Neurology,Asia,Community Outreach,20,8,Private Clinic,18-50,0.011,1.7
+1910043,Oncology,North America,Online,12,15,Academic,18-65,0.02,2.6
+1910044,Cardiology,Europe,Physician Referral,17,12,Hospital,40-80,0.06,3.3
+1910045,Endocrinology,Africa,Community Outreach,15,20,Private Clinic,30-70,0.08,4.1
+1910046,Neurology,Latin America,Online,13,9,Academic,18-40,0.014,1.8
+1910047,Oncology,North America,Physician Referral,18,13,Hospital,18-65,0.03,2.9
+1910048,Cardiology,Asia,Community Outreach,14,7,Private Clinic,40-80,0.05,3.1
+1910049,Endocrinology,Europe,Online,11,16,Academic,30-70,0.09,4.3
+1910050,Neurology,Africa,Physician Referral,19,10,Hospital,18-50,0.012,1.6
+1910051,Oncology,North America,Community Outreach,15,14,Private Clinic,18-65,0.021,2.5
+1910052,Cardiology,Latin America,Online,12,11,Academic,40-80,0.06,3.2
+1910053,Endocrinology,Europe,Physician Referral,16,18,Hospital,30-70,0.08,4
+1910054,Neurology,Asia,Community Outreach,20,8,Private Clinic,18-40,0.013,1.7
+1910055,Oncology,North America,Online,14,12,Academic,18-65,0.02,2.7
+1910056,Cardiology,Europe,Physician Referral,17,15,Hospital,40-80,0.05,3.3
+1910057,Endocrinology,Asia,Community Outreach,13,20,Private Clinic,30-70,0.07,3.9
+1910058,Neurology,Latin America,Online,11,9,Academic,18-50,0.015,1.8
+1910059,Oncology,North America,Physician Referral,19,13,Hospital,18-65,0.03,2.8
+1910060,Cardiology,Africa,Community Outreach,15,7,Private Clinic,40-80,0.04,3
+1910061,Endocrinology,Europe,Online,12,16,Academic,30-70,0.08,4.2
+1910062,Neurology,Asia,Physician Referral,18,10,Hospital,18-40,0.013,1.6
+1910063,Oncology,North America,Community Outreach,14,14,Private Clinic,18-65,0.022,2.5
+1910064,Cardiology,Latin America,Online,16,11,Academic,40-80,0.05,3.4
+1910065,Endocrinology,Europe,Physician Referral,13,18,Hospital,30-70,0.07,4
+1910066,Neurology,Asia,Community Outreach,20,8,Private Clinic,18-50,0.011,1.7
+1910067,Oncology,North America,Online,12,15,Academic,18-65,0.02,2.6
+1910068,Cardiology,Europe,Physician Referral,17,12,Hospital,40-80,0.06,3.3
+1910069,Endocrinology,Africa,Community Outreach,15,20,Private Clinic,30-70,0.08,4.1
+1910070,Neurology,Latin America,Online,13,9,Academic,18-40,0.014,1.8
+1910071,Oncology,North America,Physician Referral,18,13,Hospital,18-65,0.03,2.9
+1910072,Cardiology,Asia,Community Outreach,14,7,Private Clinic,40-80,0.05,3.1
+1910073,Endocrinology,Europe,Online,11,16,Academic,30-70,0.09,4.3
+1910074,Neurology,Africa,Physician Referral,19,10,Hospital,18-50,0.012,1.6
+1910075,Oncology,North America,Community Outreach,15,14,Private Clinic,18-65,0.021,2.5
+1910076,Cardiology,Latin America,Online,12,11,Academic,40-80,0.06,3.2
+1910077,Endocrinology,Europe,Physician Referral,16,18,Hospital,30-70,0.08,4
+1910078,Neurology,Asia,Community Outreach,20,8,Private Clinic,18-40,0.013,1.7
+1910079,Oncology,North America,Online,14,12,Academic,18-65,0.02,2.7
+1910080,Cardiology,Europe,Physician Referral,17,15,Hospital,40-80,0.05,3.3
+1910081,Endocrinology,Asia,Community Outreach,13,20,Private Clinic,30-70,0.07,3.9
+1910082,Neurology,Latin America,Online,11,9,Academic,18-50,0.015,1.8
+1910083,Oncology,North America,Physician Referral,19,13,Hospital,18-65,0.03,2.8
+1910084,Cardiology,Africa,Community Outreach,15,7,Private Clinic,40-80,0.04,3
+1910085,Endocrinology,Europe,Online,12,16,Academic,30-70,0.08,4.2
+1910086,Neurology,Asia,Physician Referral,18,10,Hospital,18-40,0.013,1.6
+1910087,Oncology,North America,Community Outreach,14,14,Private Clinic,18-65,0.022,2.5
+1910088,Cardiology,Latin America,Online,16,11,Academic,40-80,0.05,3.4
+1910089,Endocrinology,Europe,Physician Referral,13,18,Hospital,30-70,0.07,4
+1910090,Neurology,Asia,Community Outreach,20,8,Private Clinic,18-50,0.011,1.7
+1910091,Oncology,North America,Online,12,15,Academic,18-65,0.02,2.6
+1910092,Cardiology,Europe,Physician Referral,17,12,Hospital,40-80,0.06,3.3
+1910093,Endocrinology,Africa,Community Outreach,15,20,Private Clinic,30-70,0.08,4.1
+1910094,Neurology,Latin America,Online,13,9,Academic,18-40,0.014,1.8
+1910095,Oncology,North America,Physician Referral,18,13,Hospital,18-65,0.03,2.9
+1910096,Cardiology,Asia,Community Outreach,14,7,Private Clinic,40-80,0.05,3.1
+1910097,Endocrinology,Europe,Online,11,16,Academic,30-70,0.09,4.3
+1910098,Neurology,Africa,Physician Referral,19,10,Hospital,18-50,0.012,1.6
+1910099,Oncology,North America,Community Outreach,15,14,Private Clinic,18-65,0.021,2.5
+1910100,Cardiology,Latin America,Online,12,11,Academic,40-80,0.06,3.2
+1910101,Endocrinology,Europe,Physician Referral,16,18,Hospital,30-70,0.08,4
+1910102,Neurology,Asia,Community Outreach,20,8,Private Clinic,18-40,0.013,1.7
+1910103,Oncology,North America,Online,14,12,Academic,18-65,0.02,2.7
+1910104,Cardiology,Europe,Physician Referral,17,15,Hospital,40-80,0.05,3.3
+1910105,Endocrinology,Asia,Community Outreach,13,20,Private Clinic,30-70,0.07,3.9
+1910106,Neurology,Latin America,Online,11,9,Academic,18-50,0.015,1.8
+1910107,Oncology,North America,Physician Referral,19,13,Hospital,18-65,0.03,2.8
+1910108,Cardiology,Africa,Community Outreach,15,7,Private Clinic,40-80,0.04,3
+1910109,Endocrinology,Europe,Online,12,16,Academic,30-70,0.08,4.2
+1910110,Neurology,Asia,Physician Referral,18,10,Hospital,18-40,0.013,1.6
+1910111,Oncology,North America,Community Outreach,14,14,Private Clinic,18-65,0.022,2.5
+1910112,Cardiology,Latin America,Online,16,11,Academic,40-80,0.05,3.4
+1910113,Endocrinology,Europe,Physician Referral,13,18,Hospital,30-70,0.07,4
+1910114,Neurology,Asia,Community Outreach,20,8,Private Clinic,18-50,0.011,1.7
+1910115,Oncology,North America,Online,12,15,Academic,18-65,0.02,2.6
+1910116,Cardiology,Europe,Physician Referral,17,12,Hospital,40-80,0.06,3.3
+1910117,Endocrinology,Africa,Community Outreach,15,20,Private Clinic,30-70,0.08,4.1
+1910118,Neurology,Latin America,Online,13,9,Academic,18-40,0.014,1.8
+1910119,Oncology,North America,Physician Referral,18,13,Hospital,18-65,0.03,2.9
+1910120,Cardiology,Asia,Community Outreach,14,7,Private Clinic,40-80,0.05,3.1
+1910121,Endocrinology,Europe,Online,11,16,Academic,30-70,0.09,4.3
+1910122,Neurology,Africa,Physician Referral,19,10,Hospital,18-50,0.012,1.6
+1910123,Oncology,North America,Community Outreach,15,14,Private Clinic,18-65,0.021,2.5
+1910124,Cardiology,Latin America,Online,12,11,Academic,40-80,0.06,3.2
+1910125,Endocrinology,Europe,Physician Referral,16,18,Hospital,30-70,0.08,4
+1910126,Neurology,Asia,Community Outreach,20,8,Private Clinic,18-40,0.013,1.7
+1910127,Oncology,North America,Online,14,12,Academic,18-65,0.02,2.7
+1910128,Cardiology,Europe,Physician Referral,17,15,Hospital,40-80,0.05,3.3
+1910129,Endocrinology,Asia,Community Outreach,13,20,Private Clinic,30-70,0.07,3.9
+1910130,Neurology,Latin America,Online,11,9,Academic,18-50,0.015,1.8
+1910131,Oncology,North America,Physician Referral,19,13,Hospital,18-65,0.03,2.8
+1910132,Cardiology,Africa,Community Outreach,15,7,Private Clinic,40-80,0.04,3
+1910133,Endocrinology,Europe,Online,12,16,Academic,30-70,0.08,4.2
+1910134,Neurology,Asia,Physician Referral,18,10,Hospital,18-40,0.013,1.6
+1910135,Oncology,North America,Community Outreach,14,14,Private Clinic,18-65,0.022,2.5
+1910136,Cardiology,Latin America,Online,16,11,Academic,40-80,0.05,3.4
+1910137,Endocrinology,Europe,Physician Referral,13,18,Hospital,30-70,0.07,4
+1910138,Neurology,Asia,Community Outreach,20,8,Private Clinic,18-50,0.011,1.7
+1910139,Oncology,North America,Online,12,15,Academic,18-65,0.02,2.6
+1910140,Cardiology,Europe,Physician Referral,17,12,Hospital,40-80,0.06,3.3
+1910141,Endocrinology,Africa,Community Outreach,15,20,Private Clinic,30-70,0.08,4.1
+1910142,Neurology,Latin America,Online,13,9,Academic,18-40,0.014,1.8
+1910143,Oncology,North America,Physician Referral,18,13,Hospital,18-65,0.03,2.9
+1910144,Cardiology,Asia,Community Outreach,14,7,Private Clinic,40-80,0.05,3.1
+1910145,Endocrinology,Europe,Online,11,16,Academic,30-70,0.09,4.3
+1910146,Neurology,Africa,Physician Referral,19,10,Hospital,18-50,0.012,1.6
+1910147,Oncology,North America,Community Outreach,15,14,Private Clinic,18-65,0.021,2.5
+1910148,Cardiology,Latin America,Online,12,11,Academic,40-80,0.06,3.2
+1910149,Endocrinology,Europe,Physician Referral,16,18,Hospital,30-70,0.08,4
+1910150,Neurology,Asia,Community Outreach,20,8,Private Clinic,18-40,0.013,1.7
+1910151,Oncology,North America,Online,14,12,Academic,18-65,0.02,2.7
+1910152,Cardiology,Europe,Physician Referral,17,15,Hospital,40-80,0.05,3.3
+1910153,Endocrinology,Asia,Community Outreach,13,20,Private Clinic,30-70,0.07,3.9
+1910154,Neurology,Latin America,Online,11,9,Academic,18-50,0.015,1.8
+1910155,Oncology,North America,Physician Referral,19,13,Hospital,18-65,0.03,2.8
+1910156,Cardiology,Africa,Community Outreach,15,7,Private Clinic,40-80,0.04,3
+1910157,Endocrinology,Europe,Online,12,16,Academic,30-70,0.08,4.2
+1910158,Neurology,Asia,Physician Referral,18,10,Hospital,18-40,0.013,1.6
+1910159,Oncology,North America,Community Outreach,14,14,Private Clinic,18-65,0.022,2.5
+1910160,Cardiology,Latin America,Online,16,11,Academic,40-80,0.05,3.4
+1910161,Endocrinology,Europe,Physician Referral,13,18,Hospital,30-70,0.07,4
+1910162,Neurology,Asia,Community Outreach,20,8,Private Clinic,18-50,0.011,1.7
+1910163,Oncology,North America,Online,12,15,Academic,18-65,0.02,2.6
+1910164,Cardiology,Europe,Physician Referral,17,12,Hospital,40-80,0.06,3.3
+1910165,Endocrinology,Africa,Community Outreach,15,20,Private Clinic,30-70,0.08,4.1
+1910166,Neurology,Latin America,Online,13,9,Academic,18-40,0.014,1.8
+1910167,Oncology,North America,Physician Referral,18,13,Hospital,18-65,0.03,2.9
+1910168,Cardiology,Asia,Community Outreach,14,7,Private Clinic,40-80,0.05,3.1
+1910169,Endocrinology,Europe,Online,11,16,Academic,30-70,0.09,4.3
+1910170,Neurology,Africa,Physician Referral,19,10,Hospital,18-50,0.012,1.6
+1910171,Oncology,North America,Community Outreach,15,14,Private Clinic,18-65,0.021,2.5
+1910172,Cardiology,Latin America,Online,12,11,Academic,40-80,0.06,3.2
+1910173,Endocrinology,Europe,Physician Referral,16,18,Hospital,30-70,0.08,4
+1910174,Neurology,Asia,Community Outreach,20,8,Private Clinic,18-40,0.013,1.7
+1910175,Oncology,North America,Online,14,12,Academic,18-65,0.02,2.7
+1910176,Cardiology,Europe,Physician Referral,17,15,Hospital,40-80,0.05,3.3
+1910177,Endocrinology,Asia,Community Outreach,13,20,Private Clinic,30-70,0.07,3.9
+1910178,Neurology,Latin America,Online,11,9,Academic,18-50,0.015,1.8
+1910179,Oncology,North America,Physician Referral,19,13,Hospital,18-65,0.03,2.8
+1910180,Cardiology,Africa,Community Outreach,15,7,Private Clinic,40-80,0.04,3
+1910181,Endocrinology,Europe,Online,12,16,Academic,30-70,0.08,4.2
+1910182,Neurology,Asia,Physician Referral,18,10,Hospital,18-40,0.013,1.6
+1910183,Oncology,North America,Community Outreach,14,14,Private Clinic,18-65,0.022,2.5
+1910184,Cardiology,Latin America,Online,16,11,Academic,40-80,0.05,3.4
+1910185,Endocrinology,Europe,Physician Referral,13,18,Hospital,30-70,0.07,4
+1910186,Neurology,Asia,Community Outreach,20,8,Private Clinic,18-50,0.011,1.7
+1910187,Oncology,North America,Online,12,15,Academic,18-65,0.02,2.6
+1910188,Cardiology,Europe,Physician Referral,17,12,Hospital,40-80,0.06,3.3
+1910189,Endocrinology,Africa,Community Outreach,15,20,Private Clinic,30-70,0.08,4.1
+1910190,Neurology,Latin America,Online,13,9,Academic,18-40,0.014,1.8
+1910191,Oncology,North America,Physician Referral,18,13,Hospital,18-65,0.03,2.9
+1910192,Cardiology,Asia,Community Outreach,14,7,Private Clinic,40-80,0.05,3.1
+1910193,Endocrinology,Europe,Online,11,16,Academic,30-70,0.09,4.3
+1910194,Neurology,Africa,Physician Referral,19,10,Hospital,18-50,0.012,1.6
+1910195,Oncology,North America,Community Outreach,15,14,Private Clinic,18-65,0.021,2.5
+1910196,Cardiology,Latin America,Online,12,11,Academic,40-80,0.06,3.2
+1910197,Endocrinology,Europe,Physician Referral,16,18,Hospital,30-70,0.08,4
+1910198,Neurology,Asia,Community Outreach,20,8,Private Clinic,18-40,0.013,1.7
+1910199,Oncology,North America,Online,14,12,Academic,18-65,0.02,2.7
+1910200,Cardiology,Europe,Physician Referral,17,15,Hospital,40-80,0.05,3.3
+1910201,Endocrinology,Asia,Community Outreach,13,20,Private Clinic,30-70,0.07,3.9
+1910202,Neurology,Latin America,Online,11,9,Academic,18-50,0.015,1.8
+1910203,Oncology,North America,Physician Referral,19,13,Hospital,18-65,0.03,2.8
+1910204,Cardiology,Africa,Community Outreach,15,7,Private Clinic,40-80,0.04,3
+1910205,Endocrinology,Europe,Online,12,16,Academic,30-70,0.08,4.2
+1910206,Neurology,Asia,Physician Referral,18,10,Hospital,18-40,0.013,1.6
+1910207,Oncology,North America,Community Outreach,14,14,Private Clinic,18-65,0.022,2.5
+1910208,Cardiology,Latin America,Online,16,11,Academic,40-80,0.05,3.4
+1910209,Endocrinology,Europe,Physician Referral,13,18,Hospital,30-70,0.07,4
+1910210,Neurology,Asia,Community Outreach,20,8,Private Clinic,18-50,0.011,1.7
+1910211,Oncology,North America,Online,12,15,Academic,18-65,0.02,2.6
+1910212,Cardiology,Europe,Physician Referral,17,12,Hospital,40-80,0.06,3.3
+1910213,Endocrinology,Africa,Community Outreach,15,20,Private Clinic,30-70,0.08,4.1
+1910214,Neurology,Latin America,Online,13,9,Academic,18-40,0.014,1.8
+1910215,Oncology,North America,Physician Referral,18,13,Hospital,18-65,0.03,2.9
+1910216,Cardiology,Asia,Community Outreach,14,7,Private Clinic,40-80,0.05,3.1
+1910217,Endocrinology,Europe,Online,11,16,Academic,30-70,0.09,4.3
+1910218,Neurology,Africa,Physician Referral,19,10,Hospital,18-50,0.012,1.6
+1910219,Oncology,North America,Community Outreach,15,14,Private Clinic,18-65,0.021,2.5
+1910220,Cardiology,Latin America,Online,12,11,Academic,40-80,0.06,3.2
+1910221,Endocrinology,Europe,Physician Referral,16,18,Hospital,30-70,0.08,4
+1910222,Neurology,Asia,Community Outreach,20,8,Private Clinic,18-40,0.013,1.7
+1910223,Oncology,North America,Online,14,12,Academic,18-65,0.02,2.7
+1910224,Cardiology,Europe,Physician Referral,17,15,Hospital,40-80,0.05,3.3
+1910225,Endocrinology,Asia,Community Outreach,13,20,Private Clinic,30-70,0.07,3.9
+1910226,Neurology,Latin America,Online,11,9,Academic,18-50,0.015,1.8
+1910227,Oncology,North America,Physician Referral,19,13,Hospital,18-65,0.03,2.8
+1910228,Cardiology,Africa,Community Outreach,15,7,Private Clinic,40-80,0.04,3
+1910229,Endocrinology,Europe,Online,12,16,Academic,30-70,0.08,4.2
+1910230,Neurology,Asia,Physician Referral,18,10,Hospital,18-40,0.013,1.6
+1910231,Oncology,North America,Community Outreach,14,14,Private Clinic,18-65,0.022,2.5
+1910232,Cardiology,Latin America,Online,16,11,Academic,40-80,0.05,3.4
+1910233,Endocrinology,Europe,Physician Referral,13,18,Hospital,30-70,0.07,4
+1910234,Neurology,Asia,Community Outreach,20,8,Private Clinic,18-50,0.011,1.7
+1910235,Oncology,North America,Online,12,15,Academic,18-65,0.02,2.6
+1910236,Cardiology,Europe,Physician Referral,17,12,Hospital,40-80,0.06,3.3
+1910237,Endocrinology,Africa,Community Outreach,15,20,Private Clinic,30-70,0.08,4.1
+1910238,Neurology,Latin America,Online,13,9,Academic,18-40,0.014,1.8
+1910239,Oncology,North America,Physician Referral,18,13,Hospital,18-65,0.03,2.9
+1910240,Cardiology,Asia,Community Outreach,14,7,Private Clinic,40-80,0.05,3.1
+1910241,Endocrinology,Europe,Online,11,16,Academic,30-70,0.09,4.3
+1910242,Neurology,Africa,Physician Referral,19,10,Hospital,18-50,0.012,1.6
+1910243,Oncology,North America,Community Outreach,15,14,Private Clinic,18-65,0.021,2.5
+1910244,Cardiology,Latin America,Online,12,11,Academic,40-80,0.06,3.2
+1910245,Endocrinology,Europe,Physician Referral,16,18,Hospital,30-70,0.08,4
+1910246,Neurology,Asia,Community Outreach,20,8,Private Clinic,18-40,0.013,1.7
+1910247,Oncology,North America,Online,14,12,Academic,18-65,0.02,2.7
+1910248,Cardiology,Europe,Physician Referral,17,15,Hospital,40-80,0.05,3.3
+1910249,Endocrinology,Asia,Community Outreach,13,20,Private Clinic,30-70,0.07,3.9
+1910250,Neurology,Latin America,Online,11,9,Academic,18-50,0.015,1.8
+1910251,Oncology,North America,Physician Referral,19,13,Hospital,18-65,0.03,2.8
+1910252,Cardiology,Africa,Community Outreach,15,7,Private Clinic,40-80,0.04,3
+1910253,Endocrinology,Europe,Online,12,16,Academic,30-70,0.08,4.2
+1910254,Neurology,Asia,Physician Referral,18,10,Hospital,18-40,0.013,1.6
+1910255,Oncology,North America,Community Outreach,14,14,Private Clinic,18-65,0.022,2.5
+1910256,Cardiology,Latin America,Online,16,11,Academic,40-80,0.05,3.4
+1910257,Endocrinology,Europe,Physician Referral,13,18,Hospital,30-70,0.07,4
+1910258,Neurology,Asia,Community Outreach,20,8,Private Clinic,18-50,0.011,1.7
+1910259,Oncology,North America,Online,12,15,Academic,18-65,0.02,2.6
+1910260,Cardiology,Europe,Physician Referral,17,12,Hospital,40-80,0.06,3.3
+1910261,Endocrinology,Africa,Community Outreach,15,20,Private Clinic,30-70,0.08,4.1
+1910262,Neurology,Latin America,Online,13,9,Academic,18-40,0.014,1.8
+1910263,Oncology,North America,Physician Referral,18,13,Hospital,18-65,0.03,2.9
+1910264,Cardiology,Asia,Community Outreach,14,7,Private Clinic,40-80,0.05,3.1
+1910265,Endocrinology,Europe,Online,11,16,Academic,30-70,0.09,4.3
+1910266,Neurology,Africa,Physician Referral,19,10,Hospital,18-50,0.012,1.6
+1910267,Oncology,North America,Community Outreach,15,14,Private Clinic,18-65,0.021,2.5
+1910268,Cardiology,Latin America,Online,12,11,Academic,40-80,0.06,3.2
+1910269,Endocrinology,Europe,Physician Referral,16,18,Hospital,30-70,0.08,4
+1910270,Neurology,Asia,Community Outreach,20,8,Private Clinic,18-40,0.013,1.7
+1910271,Oncology,North America,Online,14,12,Academic,18-65,0.02,2.7
+1910272,Cardiology,Europe,Physician Referral,17,15,Hospital,40-80,0.05,3.3
+1910273,Endocrinology,Asia,Community Outreach,13,20,Private Clinic,30-70,0.07,3.9
+1910274,Neurology,Latin America,Online,11,9,Academic,18-50,0.015,1.8
+1910275,Oncology,North America,Physician Referral,19,13,Hospital,18-65,0.03,2.8
+1910276,Cardiology,Africa,Community Outreach,15,7,Private Clinic,40-80,0.04,3
+1910277,Endocrinology,Europe,Online,12,16,Academic,30-70,0.08,4.2
+1910278,Neurology,Asia,Physician Referral,18,10,Hospital,18-40,0.013,1.6
+1910279,Oncology,North America,Community Outreach,14,14,Private Clinic,18-65,0.022,2.5
+1910280,Cardiology,Latin America,Online,16,11,Academic,40-80,0.05,3.4
+1910281,Endocrinology,Europe,Physician Referral,13,18,Hospital,30-70,0.07,4
+1910282,Neurology,Asia,Community Outreach,20,8,Private Clinic,18-50,0.011,1.7
+1910283,Oncology,North America,Online,12,15,Academic,18-65,0.02,2.6
+1910284,Cardiology,Europe,Physician Referral,17,12,Hospital,40-80,0.06,3.3
+1910285,Endocrinology,Africa,Community Outreach,15,20,Private Clinic,30-70,0.08,4.1
+1910286,Neurology,Latin America,Online,13,9,Academic,18-40,0.014,1.8
+1910287,Oncology,North America,Physician Referral,18,13,Hospital,18-65,0.03,2.9
+1910288,Cardiology,Asia,Community Outreach,14,7,Private Clinic,40-80,0.05,3.1
+1910289,Endocrinology,Europe,Online,11,16,Academic,30-70,0.09,4.3
+1910290,Neurology,Africa,Physician Referral,19,10,Hospital,18-50,0.012,1.6
+1910291,Oncology,North America,Community Outreach,15,14,Private Clinic,18-65,0.021,2.5
+1910292,Cardiology,Latin America,Online,12,11,Academic,40-80,0.06,3.2
+1910293,Endocrinology,Europe,Physician Referral,16,18,Hospital,30-70,0.08,4
+1910294,Neurology,Asia,Community Outreach,20,8,Private Clinic,18-40,0.013,1.7
+1910295,Oncology,North America,Online,14,12,Academic,18-65,0.02,2.7
+1910296,Cardiology,Europe,Physician Referral,17,15,Hospital,40-80,0.05,3.3
+1910297,Endocrinology,Asia,Community Outreach,13,20,Private Clinic,30-70,0.07,3.9
+1910298,Neurology,Latin America,Online,11,9,Academic,18-50,0.015,1.8
+1910299,Oncology,North America,Physician Referral,19,13,Hospital,18-65,0.03,2.8
+1910300,Cardiology,Africa,Community Outreach,15,7,Private Clinic,40-80,0.04,3
+1910301,Endocrinology,Europe,Online,12,16,Academic,30-70,0.08,4.2
+1910302,Neurology,Asia,Physician Referral,18,10,Hospital,18-40,0.013,1.6
+1910303,Oncology,North America,Community Outreach,14,14,Private Clinic,18-65,0.022,2.5
+1910304,Cardiology,Latin America,Online,16,11,Academic,40-80,0.05,3.4
+1910305,Endocrinology,Europe,Physician Referral,13,18,Hospital,30-70,0.07,4
+1910306,Neurology,Asia,Community Outreach,20,8,Private Clinic,18-50,0.011,1.7
+1910307,Oncology,North America,Online,12,15,Academic,18-65,0.02,2.6
+1910308,Cardiology,Europe,Physician Referral,17,12,Hospital,40-80,0.06,3.3
+1910309,Endocrinology,Africa,Community Outreach,15,20,Private Clinic,30-70,0.08,4.1
+1910310,Neurology,Latin America,Online,13,9,Academic,18-40,0.014,1.8
+1910311,Oncology,North America,Physician Referral,18,13,Hospital,18-65,0.03,2.9
+1910312,Cardiology,Asia,Community Outreach,14,7,Private Clinic,40-80,0.05,3.1
+1910313,Endocrinology,Europe,Online,11,16,Academic,30-70,0.09,4.3
+1910314,Neurology,Africa,Physician Referral,19,10,Hospital,18-50,0.012,1.6
+1910315,Oncology,North America,Community Outreach,15,14,Private Clinic,18-65,0.021,2.5
+1910316,Cardiology,Latin America,Online,12,11,Academic,40-80,0.06,3.2
+1910317,Endocrinology,Europe,Physician Referral,16,18,Hospital,30-70,0.08,4
+1910318,Neurology,Asia,Community Outreach,20,8,Private Clinic,18-40,0.013,1.7
+1910319,Oncology,North America,Online,14,12,Academic,18-65,0.02,2.7
+1910320,Cardiology,Europe,Physician Referral,17,15,Hospital,40-80,0.05,3.3
+1910321,Endocrinology,Asia,Community Outreach,13,20,Private Clinic,30-70,0.07,3.9
+1910322,Neurology,Latin America,Online,11,9,Academic,18-50,0.015,1.8
+1910323,Oncology,North America,Physician Referral,19,13,Hospital,18-65,0.03,2.8
+1910324,Cardiology,Africa,Community Outreach,15,7,Private Clinic,40-80,0.04,3
+1910325,Endocrinology,Europe,Online,12,16,Academic,30-70,0.08,4.2
+1910326,Neurology,Asia,Physician Referral,18,10,Hospital,18-40,0.013,1.6
+1910327,Oncology,North America,Community Outreach,14,14,Private Clinic,18-65,0.022,2.5
+1910328,Cardiology,Latin America,Online,16,11,Academic,40-80,0.05,3.4
+1910329,Endocrinology,Europe,Physician Referral,13,18,Hospital,30-70,0.07,4
+1910330,Neurology,Asia,Community Outreach,20,8,Private Clinic,18-50,0.011,1.7
+1910331,Oncology,North America,Online,12,15,Academic,18-65,0.02,2.6
+1910332,Cardiology,Europe,Physician Referral,17,12,Hospital,40-80,0.06,3.3
+1910333,Endocrinology,Africa,Community Outreach,15,20,Private Clinic,30-70,0.08,4.1
+1910334,Neurology,Latin America,Online,13,9,Academic,18-40,0.014,1.8
+1910335,Oncology,North America,Physician Referral,18,13,Hospital,18-65,0.03,2.9
+1910336,Cardiology,Asia,Community Outreach,14,7,Private Clinic,40-80,0.05,3.1
+1910337,Endocrinology,Europe,Online,11,16,Academic,30-70,0.09,4.3
+1910338,Neurology,Africa,Physician Referral,19,10,Hospital,18-50,0.012,1.6
+1910339,Oncology,North America,Community Outreach,15,14,Private Clinic,18-65,0.021,2.5
+1910340,Cardiology,Latin America,Online,12,11,Academic,40-80,0.06,3.2
+1910341,Endocrinology,Europe,Physician Referral,16,18,Hospital,30-70,0.08,4
+1910342,Neurology,Asia,Community Outreach,20,8,Private Clinic,18-40,0.013,1.7
+1910343,Oncology,North America,Online,14,12,Academic,18-65,0.02,2.7
+1910344,Cardiology,Europe,Physician Referral,17,15,Hospital,40-80,0.05,3.3
+1910345,Endocrinology,Asia,Community Outreach,13,20,Private Clinic,30-70,0.07,3.9
+1910346,Neurology,Latin America,Online,11,9,Academic,18-50,0.015,1.8
+1910347,Oncology,North America,Physician Referral,19,13,Hospital,18-65,0.03,2.8
+1910348,Cardiology,Africa,Community Outreach,15,7,Private Clinic,40-80,0.04,3
+1910349,Endocrinology,Europe,Online,12,16,Academic,30-70,0.08,4.2
+1910350,Neurology,Asia,Physician Referral,18,10,Hospital,18-40,0.013,1.6
+1910351,Oncology,North America,Community Outreach,14,14,Private Clinic,18-65,0.022,2.5
+1910352,Cardiology,Latin America,Online,16,11,Academic,40-80,0.05,3.4
+1910353,Endocrinology,Europe,Physician Referral,13,18,Hospital,30-70,0.07,4
+1910354,Neurology,Asia,Community Outreach,20,8,Private Clinic,18-50,0.011,1.7
+1910355,Oncology,North America,Online,12,15,Academic,18-65,0.02,2.6
+1910356,Cardiology,Europe,Physician Referral,17,12,Hospital,40-80,0.06,3.3
+1910357,Endocrinology,Africa,Community Outreach,15,20,Private Clinic,30-70,0.08,4.1
+1910358,Neurology,Latin America,Online,13,9,Academic,18-40,0.014,1.8
+1910359,Oncology,North America,Physician Referral,18,13,Hospital,18-65,0.03,2.9
+1910360,Cardiology,Asia,Community Outreach,14,7,Private Clinic,40-80,0.05,3.1
+1910361,Endocrinology,Europe,Online,11,16,Academic,30-70,0.09,4.3
+1910362,Neurology,Africa,Physician Referral,19,10,Hospital,18-50,0.012,1.6
+1910363,Oncology,North America,Community Outreach,15,14,Private Clinic,18-65,0.021,2.5
+1910364,Cardiology,Latin America,Online,12,11,Academic,40-80,0.06,3.2
+1910365,Endocrinology,Europe,Physician Referral,16,18,Hospital,30-70,0.08,4
+1910366,Neurology,Asia,Community Outreach,20,8,Private Clinic,18-40,0.013,1.7
+1910367,Oncology,North America,Online,14,12,Academic,18-65,0.02,2.7
+1910368,Cardiology,Europe,Physician Referral,17,15,Hospital,40-80,0.05,3.3
+1910369,Endocrinology,Asia,Community Outreach,13,20,Private Clinic,30-70,0.07,3.9
+1910370,Neurology,Latin America,Online,11,9,Academic,18-50,0.015,1.8
+1910371,Oncology,North America,Physician Referral,19,13,Hospital,18-65,0.03,2.8
+1910372,Cardiology,Africa,Community Outreach,15,7,Private Clinic,40-80,0.04,3
+1910373,Endocrinology,Europe,Online,12,16,Academic,30-70,0.08,4.2
+1910374,Neurology,Asia,Physician Referral,18,10,Hospital,18-40,0.013,1.6
+1910375,Oncology,North America,Community Outreach,14,14,Private Clinic,18-65,0.022,2.5
+1910376,Cardiology,Latin America,Online,16,11,Academic,40-80,0.05,3.4
+1910377,Endocrinology,Europe,Physician Referral,13,18,Hospital,30-70,0.07,4
+1910378,Neurology,Asia,Community Outreach,20,8,Private Clinic,18-50,0.011,1.7
+1910379,Oncology,North America,Online,12,15,Academic,18-65,0.02,2.6
+1910380,Cardiology,Europe,Physician Referral,17,12,Hospital,40-80,0.06,3.3
+1910381,Endocrinology,Africa,Community Outreach,15,20,Private Clinic,30-70,0.08,4.1
+1910382,Neurology,Latin America,Online,13,9,Academic,18-40,0.014,1.8
+1910383,Oncology,North America,Physician Referral,18,13,Hospital,18-65,0.03,2.9
+1910384,Cardiology,Asia,Community Outreach,14,7,Private Clinic,40-80,0.05,3.1
+1910385,Endocrinology,Europe,Online,11,16,Academic,30-70,0.09,4.3
+1910386,Neurology,Africa,Physician Referral,19,10,Hospital,18-50,0.012,1.6
+1910387,Oncology,North America,Community Outreach,15,14,Private Clinic,18-65,0.021,2.5
+1910388,Cardiology,Latin America,Online,12,11,Academic,40-80,0.06,3.2
+1910389,Endocrinology,Europe,Physician Referral,16,18,Hospital,30-70,0.08,4
+1910390,Neurology,Asia,Community Outreach,20,8,Private Clinic,18-40,0.013,1.7
+1910391,Oncology,North America,Online,14,12,Academic,18-65,0.02,2.7
+1910392,Cardiology,Europe,Physician Referral,17,15,Hospital,40-80,0.05,3.3
+1910393,Endocrinology,Asia,Community Outreach,13,20,Private Clinic,30-70,0.07,3.9
+1910394,Neurology,Latin America,Online,11,9,Academic,18-50,0.015,1.8
+1910395,Neurology,Latin America,Online,11,9,Academic,18-50,0.015,1.8
+1910396,Oncology,North America,Physician Referral,19,13,Hospital,18-65,0.03,2.8
+1910397,Cardiology,Asia,Community Outreach,14,7,Private Clinic,40-80,0.05,3.1
+1910398,Endocrinology,Europe,Online,11,16,Academic,30-70,0.09,4.3
+1910399,Neurology,Africa,Physician Referral,19,10,Hospital,18-50,0.012,1.6
+1910400,Oncology,North America,Community Outreach,15,14,Private Clinic,18-65,0.021,2.5
+1910401,Cardiology,Latin America,Online,12,11,Academic,40-80,0.06,3.2
+1910402,Endocrinology,Europe,Physician Referral,16,18,Hospital,30-70,0.08,4
+1910403,Neurology,Asia,Community Outreach,20,8,Private Clinic,18-40,0.013,1.7
+1910404,Oncology,North America,Online,14,12,Academic,18-65,0.02,2.7
+1910405,Cardiology,Europe,Physician Referral,17,15,Hospital,40-80,0.05,3.3
+1910406,Endocrinology,Asia,Community Outreach,13,20,Private Clinic,30-70,0.07,3.9
+1910407,Neurology,Latin America,Online,11,9,Academic,18-50,0.015,1.8
+1910408,Oncology,North America,Physician Referral,19,13,Hospital,18-65,0.03,2.8
+1910409,Cardiology,Africa,Community Outreach,15,7,Private Clinic,40-80,0.04,3
+1910410,Endocrinology,Europe,Online,12,16,Academic,30-70,0.08,4.2
+1910411,Neurology,Asia,Physician Referral,18,10,Hospital,18-40,0.013,1.6
+1910412,Oncology,North America,Community Outreach,14,14,Private Clinic,18-65,0.022,2.5
+1910413,Cardiology,Latin America,Online,16,11,Academic,40-80,0.05,3.4
+1910414,Endocrinology,Europe,Physician Referral,13,18,Hospital,30-70,0.07,4
+1910415,Neurology,Asia,Community Outreach,20,8,Private Clinic,18-50,0.011,1.7
+1910416,Oncology,North America,Online,12,15,Academic,18-65,0.02,2.6
+1910417,Cardiology,Europe,Physician Referral,17,12,Hospital,40-80,0.06,3.3
+1910418,Endocrinology,Africa,Community Outreach,15,20,Private Clinic,30-70,0.08,4.1
+1910419,Neurology,Latin America,Online,13,9,Academic,18-40,0.014,1.8
+1910420,Oncology,North America,Physician Referral,18,13,Hospital,18-65,0.03,2.9
+1910421,Cardiology,Asia,Community Outreach,14,7,Private Clinic,40-80,0.05,3.1
+1910422,Endocrinology,Europe,Online,11,16,Academic,30-70,0.09,4.3
+1910423,Neurology,Africa,Physician Referral,19,10,Hospital,18-50,0.012,1.6
+1910424,Oncology,North America,Community Outreach,15,14,Private Clinic,18-65,0.021,2.5
+1910425,Cardiology,Latin America,Online,12,11,Academic,40-80,0.06,3.2
+1910426,Endocrinology,Europe,Physician Referral,16,18,Hospital,30-70,0.08,4
+1910427,Neurology,Asia,Community Outreach,20,8,Private Clinic,18-40,0.013,1.7
+1910428,Oncology,North America,Online,14,12,Academic,18-65,0.02,2.7
+1910429,Cardiology,Europe,Physician Referral,17,15,Hospital,40-80,0.05,3.3
+1910430,Endocrinology,Asia,Community Outreach,13,20,Private Clinic,30-70,0.07,3.9
+1910431,Neurology,Latin America,Online,11,9,Academic,18-50,0.015,1.8
+1910432,Oncology,North America,Physician Referral,19,13,Hospital,18-65,0.03,2.8
+1910433,Cardiology,Africa,Community Outreach,15,7,Private Clinic,40-80,0.04,3
+1910434,Endocrinology,Europe,Online,12,16,Academic,30-70,0.08,4.2
+1910435,Neurology,Asia,Physician Referral,18,10,Hospital,18-40,0.013,1.6
+1910436,Oncology,North America,Community Outreach,14,14,Private Clinic,18-65,0.022,2.5
+1910437,Cardiology,Latin America,Online,16,11,Academic,40-80,0.05,3.4
+1910438,Endocrinology,Europe,Physician Referral,13,18,Hospital,30-70,0.07,4
+1910439,Neurology,Asia,Community Outreach,20,8,Private Clinic,18-50,0.011,1.7
+1910440,Oncology,North America,Online,12,15,Academic,18-65,0.02,2.6
+1910441,Cardiology,Europe,Physician Referral,17,12,Hospital,40-80,0.06,3.3
+1910442,Endocrinology,Africa,Community Outreach,15,20,Private Clinic,30-70,0.08,4.1
+1910443,Neurology,Latin America,Online,13,9,Academic,18-40,0.014,1.8
+1910444,Oncology,North America,Physician Referral,18,13,Hospital,18-65,0.03,2.9
+1910445,Cardiology,Asia,Community Outreach,14,7,Private Clinic,40-80,0.05,3.1
+1910446,Endocrinology,Europe,Online,11,16,Academic,30-70,0.09,4.3
+1910447,Neurology,Africa,Physician Referral,19,10,Hospital,18-50,0.012,1.6
+1910448,Oncology,North America,Community Outreach,15,14,Private Clinic,18-65,0.021,2.5
+1910449,Cardiology,Latin America,Online,12,11,Academic,40-80,0.06,3.2
+1910450,Endocrinology,Europe,Physician Referral,16,18,Hospital,30-70,0.08,4
+1910451,Neurology,Asia,Community Outreach,20,8,Private Clinic,18-40,0.013,1.7
+1910452,Oncology,North America,Online,14,12,Academic,18-65,0.02,2.7
+1910453,Cardiology,Europe,Physician Referral,17,15,Hospital,40-80,0.05,3.3
+1910454,Endocrinology,Asia,Community Outreach,13,20,Private Clinic,30-70,0.07,3.9
+1910455,Neurology,Latin America,Online,11,9,Academic,18-50,0.015,1.8
+1910456,Oncology,North America,Physician Referral,19,13,Hospital,18-65,0.03,2.8
+1910457,Cardiology,Africa,Community Outreach,15,7,Private Clinic,40-80,0.04,3
+1910458,Endocrinology,Europe,Online,12,16,Academic,30-70,0.08,4.2
+1910459,Neurology,Asia,Physician Referral,18,10,Hospital,18-40,0.013,1.6
+1910460,Oncology,North America,Community Outreach,14,14,Private Clinic,18-65,0.022,2.5
+1910461,Cardiology,Latin America,Online,16,11,Academic,40-80,0.05,3.4
+1910462,Endocrinology,Europe,Physician Referral,13,18,Hospital,30-70,0.07,4
+1910463,Neurology,Asia,Community Outreach,20,8,Private Clinic,18-50,0.011,1.7
+1910464,Oncology,North America,Online,12,15,Academic,18-65,0.02,2.6
+1910465,Cardiology,Europe,Physician Referral,17,12,Hospital,40-80,0.06,3.3
+1910466,Endocrinology,Africa,Community Outreach,15,20,Private Clinic,30-70,0.08,4.1
+1910467,Neurology,Latin America,Online,13,9,Academic,18-40,0.014,1.8
+1910468,Oncology,North America,Physician Referral,18,13,Hospital,18-65,0.03,2.9
+1910469,Cardiology,Asia,Community Outreach,14,7,Private Clinic,40-80,0.05,3.1
+1910470,Endocrinology,Europe,Online,11,16,Academic,30-70,0.09,4.3
+1910471,Neurology,Africa,Physician Referral,19,10,Hospital,18-50,0.012,1.6
+1910472,Oncology,North America,Community Outreach,15,14,Private Clinic,18-65,0.021,2.5
+1910473,Cardiology,Latin America,Online,12,11,Academic,40-80,0.06,3.2
+1910474,Endocrinology,Europe,Physician Referral,16,18,Hospital,30-70,0.08,4
+1910475,Neurology,Asia,Community Outreach,20,8,Private Clinic,18-40,0.013,1.7
+1910476,Oncology,North America,Online,14,12,Academic,18-65,0.02,2.7
+1910477,Cardiology,Europe,Physician Referral,17,15,Hospital,40-80,0.05,3.3
+1910478,Endocrinology,Asia,Community Outreach,13,20,Private Clinic,30-70,0.07,3.9
+1910479,Neurology,Latin America,Online,11,9,Academic,18-50,0.015,1.8
+1910480,Oncology,North America,Physician Referral,19,13,Hospital,18-65,0.03,2.8
+1910481,Cardiology,Africa,Community Outreach,15,7,Private Clinic,40-80,0.04,3
+1910482,Endocrinology,Europe,Online,12,16,Academic,30-70,0.08,4.2
+1910483,Neurology,Asia,Physician Referral,18,10,Hospital,18-40,0.013,1.6
+1910484,Oncology,North America,Community Outreach,14,14,Private Clinic,18-65,0.022,2.5
+1910485,Cardiology,Latin America,Online,16,11,Academic,40-80,0.05,3.4
+1910486,Endocrinology,Europe,Physician Referral,13,18,Hospital,30-70,0.07,4
+1910487,Neurology,Asia,Community Outreach,20,8,Private Clinic,18-50,0.011,1.7
+1910488,Oncology,North America,Online,12,15,Academic,18-65,0.02,2.6
+1910489,Cardiology,Europe,Physician Referral,17,12,Hospital,40-80,0.06,3.3
+1910490,Endocrinology,Africa,Community Outreach,15,20,Private Clinic,30-70,0.08,4.1
+1910491,Neurology,Latin America,Online,13,9,Academic,18-40,0.014,1.8
+1910492,Oncology,North America,Physician Referral,18,13,Hospital,18-65,0.03,2.9
+1910493,Cardiology,Asia,Community Outreach,14,7,Private Clinic,40-80,0.05,3.1
+1910494,Endocrinology,Europe,Online,11,16,Academic,30-70,0.09,4.3
+1910495,Neurology,Africa,Physician Referral,19,10,Hospital,18-50,0.012,1.6
+1910496,Oncology,North America,Community Outreach,15,14,Private Clinic,18-65,0.021,2.5
+1910497,Cardiology,Latin America,Online,12,11,Academic,40-80,0.06,3.2
+1910498,Endocrinology,Europe,Physician Referral,16,18,Hospital,30-70,0.08,4
+1910499,Neurology,Asia,Community Outreach,20,8,Private Clinic,18-40,0.013,1.7
+1910500,Oncology,North America,Online,14,12,Academic,18-65,0.02,2.7
+1910501,Cardiology,Europe,Physician Referral,17,15,Hospital,40-80,0.05,3.3
+1910502,Endocrinology,Asia,Community Outreach,13,20,Private Clinic,30-70,0.07,3.9
+1910503,Neurology,Latin America,Online,11,9,Academic,18-50,0.015,1.8
+1910504,Oncology,North America,Physician Referral,19,13,Hospital,18-65,0.03,2.8
+1910505,Cardiology,Africa,Community Outreach,15,7,Private Clinic,40-80,0.04,3
+1910506,Endocrinology,Europe,Online,12,16,Academic,30-70,0.08,4.2
+1910507,Neurology,Asia,Physician Referral,18,10,Hospital,18-40,0.013,1.6
+1910508,Oncology,North America,Community Outreach,14,14,Private Clinic,18-65,0.022,2.5
+1910509,Cardiology,Latin America,Online,16,11,Academic,40-80,0.05,3.4
+1910510,Endocrinology,Europe,Physician Referral,13,18,Hospital,30-70,0.07,4
+1910511,Neurology,Asia,Community Outreach,20,8,Private Clinic,18-50,0.011,1.7
+1910512,Oncology,North America,Online,12,15,Academic,18-65,0.02,2.6
+1910513,Cardiology,Europe,Physician Referral,17,12,Hospital,40-80,0.06,3.3
+1910514,Endocrinology,Africa,Community Outreach,15,20,Private Clinic,30-70,0.08,4.1
+1910515,Neurology,Latin America,Online,13,9,Academic,18-40,0.014,1.8
+1910516,Oncology,North America,Physician Referral,18,13,Hospital,18-65,0.03,2.9
+1910517,Cardiology,Asia,Community Outreach,14,7,Private Clinic,40-80,0.05,3.1
+1910518,Endocrinology,Europe,Online,11,16,Academic,30-70,0.09,4.3
+1910519,Neurology,Africa,Physician Referral,19,10,Hospital,18-50,0.012,1.6
+1910520,Oncology,North America,Community Outreach,15,14,Private Clinic,18-65,0.021,2.5
+1910521,Cardiology,Latin America,Online,12,11,Academic,40-80,0.06,3.2
+1910522,Endocrinology,Europe,Physician Referral,16,18,Hospital,30-70,0.08,4
+1910523,Neurology,Asia,Community Outreach,20,8,Private Clinic,18-40,0.013,1.7
+1910524,Oncology,North America,Online,14,12,Academic,18-65,0.02,2.7
+1910525,Cardiology,Europe,Physician Referral,17,15,Hospital,40-80,0.05,3.3
+1910526,Endocrinology,Asia,Community Outreach,13,20,Private Clinic,30-70,0.07,3.9
+1910527,Neurology,Latin America,Online,11,9,Academic,18-50,0.015,1.8
+1910528,Oncology,North America,Physician Referral,19,13,Hospital,18-65,0.03,2.8
+1910529,Cardiology,Africa,Community Outreach,15,7,Private Clinic,40-80,0.04,3
+1910530,Endocrinology,Europe,Online,12,16,Academic,30-70,0.08,4.2
+1910531,Neurology,Asia,Physician Referral,18,10,Hospital,18-40,0.013,1.6
+1910532,Oncology,North America,Community Outreach,14,14,Private Clinic,18-65,0.022,2.5
+1910533,Cardiology,Latin America,Online,16,11,Academic,40-80,0.05,3.4
+1910534,Endocrinology,Europe,Physician Referral,13,18,Hospital,30-70,0.07,4
+1910535,Neurology,Asia,Community Outreach,20,8,Private Clinic,18-50,0.011,1.7
+1910536,Oncology,North America,Online,12,15,Academic,18-65,0.02,2.6
+1910537,Cardiology,Europe,Physician Referral,17,12,Hospital,40-80,0.06,3.3
+1910538,Endocrinology,Africa,Community Outreach,15,20,Private Clinic,30-70,0.08,4.1
+1910539,Neurology,Latin America,Online,13,9,Academic,18-40,0.014,1.8
+1910540,Oncology,North America,Physician Referral,18,13,Hospital,18-65,0.03,2.9
+1910541,Cardiology,Asia,Community Outreach,14,7,Private Clinic,40-80,0.05,3.1
+1910542,Endocrinology,Europe,Online,11,16,Academic,30-70,0.09,4.3
+1910543,Neurology,Africa,Physician Referral,19,10,Hospital,18-50,0.012,1.6
+1910544,Oncology,North America,Community Outreach,15,14,Private Clinic,18-65,0.021,2.5
+1910545,Cardiology,Latin America,Online,12,11,Academic,40-80,0.06,3.2
+1910546,Endocrinology,Europe,Physician Referral,16,18,Hospital,30-70,0.08,4
+1910547,Neurology,Asia,Community Outreach,20,8,Private Clinic,18-40,0.013,1.7
+1910548,Oncology,North America,Online,14,12,Academic,18-65,0.02,2.7
+1910549,Cardiology,Europe,Physician Referral,17,15,Hospital,40-80,0.05,3.3
+1910550,Endocrinology,Asia,Community Outreach,13,20,Private Clinic,30-70,0.07,3.9
+1910551,Neurology,Latin America,Online,11,9,Academic,18-50,0.015,1.8
+1910552,Oncology,North America,Physician Referral,19,13,Hospital,18-65,0.03,2.8
+1910553,Cardiology,Africa,Community Outreach,15,7,Private Clinic,40-80,0.04,3
+1910554,Endocrinology,Europe,Online,12,16,Academic,30-70,0.08,4.2
+1910555,Neurology,Asia,Physician Referral,18,10,Hospital,18-40,0.013,1.6
+1910556,Oncology,North America,Community Outreach,14,14,Private Clinic,18-65,0.022,2.5
+1910557,Cardiology,Latin America,Online,16,11,Academic,40-80,0.05,3.4
+1910558,Endocrinology,Europe,Physician Referral,13,18,Hospital,30-70,0.07,4
+1910559,Neurology,Asia,Community Outreach,20,8,Private Clinic,18-50,0.011,1.7
+1910560,Oncology,North America,Online,12,15,Academic,18-65,0.02,2.6
+1910561,Cardiology,Europe,Physician Referral,17,12,Hospital,40-80,0.06,3.3
+1910562,Endocrinology,Africa,Community Outreach,15,20,Private Clinic,30-70,0.08,4.1
+1910563,Neurology,Latin America,Online,13,9,Academic,18-40,0.014,1.8
+1910564,Oncology,North America,Physician Referral,18,13,Hospital,18-65,0.03,2.9
+1910565,Cardiology,Asia,Community Outreach,14,7,Private Clinic,40-80,0.05,3.1
+1910566,Endocrinology,Europe,Online,11,16,Academic,30-70,0.09,4.3
+1910567,Neurology,Africa,Physician Referral,19,10,Hospital,18-50,0.012,1.6
+1910568,Oncology,North America,Community Outreach,15,14,Private Clinic,18-65,0.021,2.5
+1910569,Cardiology,Latin America,Online,12,11,Academic,40-80,0.06,3.2
+1910570,Endocrinology,Europe,Physician Referral,16,18,Hospital,30-70,0.08,4
+1910571,Neurology,Asia,Community Outreach,20,8,Private Clinic,18-50,0.011,1.7
+1910572,Oncology,North America,Online,12,15,Academic,18-65,0.02,2.6
+1910573,Cardiology,Europe,Physician Referral,17,12,Hospital,40-80,0.06,3.3
+1910574,Endocrinology,Africa,Community Outreach,15,20,Private Clinic,30-70,0.08,4.1
+1910575,Neurology,Latin America,Online,13,9,Academic,18-40,0.014,1.8
+1910576,Oncology,North America,Physician Referral,18,13,Hospital,18-65,0.03,2.9
+1910577,Cardiology,Asia,Community Outreach,14,7,Private Clinic,40-80,0.05,3.1
+1910578,Endocrinology,Europe,Online,11,16,Academic,30-70,0.09,4.3
+1910579,Neurology,Africa,Physician Referral,19,10,Hospital,18-50,0.012,1.6
+1910580,Oncology,North America,Community Outreach,15,14,Private Clinic,18-65,0.021,2.5
+1910581,Cardiology,Latin America,Online,12,11,Academic,40-80,0.06,3.2
+1910582,Endocrinology,Europe,Physician Referral,16,18,Hospital,30-70,0.08,4
+1910583,Neurology,Asia,Community Outreach,20,8,Private Clinic,18-40,0.013,1.7
+1910584,Oncology,North America,Online,14,12,Academic,18-65,0.02,2.7
+1910585,Cardiology,Europe,Physician Referral,17,15,Hospital,40-80,0.05,3.3
+1910586,Endocrinology,Asia,Community Outreach,13,20,Private Clinic,30-70,0.07,3.9
+1910587,Neurology,Latin America,Online,11,9,Academic,18-50,0.015,1.8
+1910588,Oncology,North America,Physician Referral,19,13,Hospital,18-65,0.03,2.8
+1910589,Cardiology,Africa,Community Outreach,15,7,Private Clinic,40-80,0.04,3
+1910590,Endocrinology,Europe,Online,12,16,Academic,30-70,0.08,4.2
+1910591,Neurology,Asia,Physician Referral,18,10,Hospital,18-40,0.013,1.6
+1910592,Oncology,North America,Community Outreach,14,14,Private Clinic,18-65,0.022,2.5
+1910593,Cardiology,Latin America,Online,16,11,Academic,40-80,0.05,3.4
+1910594,Endocrinology,Europe,Physician Referral,13,18,Hospital,30-70,0.07,4
+1910595,Neurology,Asia,Community Outreach,20,8,Private Clinic,18-50,0.011,1.7
+1910596,Oncology,North America,Online,12,15,Academic,18-65,0.02,2.6
+1910597,Cardiology,Europe,Physician Referral,17,12,Hospital,40-80,0.06,3.3
+1910598,Endocrinology,Africa,Community Outreach,15,20,Private Clinic,30-70,0.08,4.1
+1910599,Neurology,Latin America,Online,13,9,Academic,18-40,0.014,1.8
+1910600,Oncology,North America,Physician Referral,18,13,Hospital,18-65,0.03,2.9
+1910601,Cardiology,Asia,Community Outreach,14,7,Private Clinic,40-80,0.05,3.1
+1910602,Endocrinology,Europe,Online,11,16,Academic,30-70,0.09,4.3
+1910603,Neurology,Africa,Physician Referral,19,10,Hospital,18-50,0.012,1.6
+1910604,Oncology,North America,Community Outreach,15,14,Private Clinic,18-65,0.021,2.5
+1910605,Cardiology,Latin America,Online,12,11,Academic,40-80,0.06,3.2
+1910606,Endocrinology,Europe,Physician Referral,16,18,Hospital,30-70,0.08,4
+1910607,Neurology,Asia,Community Outreach,20,8,Private Clinic,18-40,0.013,1.7
+1910608,Oncology,North America,Online,14,12,Academic,18-65,0.02,2.7
+1910609,Cardiology,Europe,Physician Referral,17,15,Hospital,40-80,0.05,3.3
+1910610,Endocrinology,Asia,Community Outreach,13,20,Private Clinic,30-70,0.07,3.9
+1910611,Neurology,Latin America,Online,11,9,Academic,18-50,0.015,1.8
+1910612,Oncology,North America,Physician Referral,19,13,Hospital,18-65,0.03,2.8
+1910613,Cardiology,Africa,Community Outreach,15,7,Private Clinic,40-80,0.04,3
+1910614,Endocrinology,Europe,Online,12,16,Academic,30-70,0.08,4.2
+1910615,Neurology,Asia,Physician Referral,18,10,Hospital,18-40,0.013,1.6
+1910616,Oncology,North America,Community Outreach,14,14,Private Clinic,18-65,0.022,2.5
+1910617,Cardiology,Latin America,Online,16,11,Academic,40-80,0.05,3.4
+1910618,Endocrinology,Europe,Physician Referral,13,18,Hospital,30-70,0.07,4
+1910619,Neurology,Asia,Community Outreach,20,8,Private Clinic,18-50,0.011,1.7
+1910620,Oncology,North America,Online,12,15,Academic,18-65,0.02,2.6
+1910621,Cardiology,Europe,Physician Referral,17,12,Hospital,40-80,0.06,3.3
+1910622,Endocrinology,Africa,Community Outreach,15,20,Private Clinic,30-70,0.08,4.1
+1910623,Neurology,Latin America,Online,13,9,Academic,18-40,0.014,1.8
+1910624,Oncology,North America,Physician Referral,18,13,Hospital,18-65,0.03,2.9
+1910625,Cardiology,Asia,Community Outreach,14,7,Private Clinic,40-80,0.05,3.1
+1910626,Endocrinology,Europe,Online,11,16,Academic,30-70,0.09,4.3
+1910627,Neurology,Africa,Physician Referral,19,10,Hospital,18-50,0.012,1.6
+1910628,Oncology,North America,Community Outreach,15,14,Private Clinic,18-65,0.021,2.5
+1910629,Cardiology,Latin America,Online,12,11,Academic,40-80,0.06,3.2
+1910630,Endocrinology,Europe,Physician Referral,16,18,Hospital,30-70,0.08,4
+1910631,Neurology,Asia,Community Outreach,20,8,Private Clinic,18-50,0.011,1.7
+1910632,Oncology,North America,Online,12,15,Academic,18-65,0.02,2.6
+1910633,Cardiology,Europe,Physician Referral,17,12,Hospital,40-80,0.06,3.3
+1910634,Endocrinology,Africa,Community Outreach,15,20,Private Clinic,30-70,0.08,4.1
+1910635,Neurology,Latin America,Online,13,9,Academic,18-40,0.014,1.8
+1910636,Oncology,North America,Physician Referral,18,13,Hospital,18-65,0.03,2.9
+1910637,Cardiology,Asia,Community Outreach,14,7,Private Clinic,40-80,0.05,3.1
+1910638,Endocrinology,Europe,Online,11,16,Academic,30-70,0.09,4.3
+1910639,Neurology,Africa,Physician Referral,19,10,Hospital,18-50,0.012,1.6
+1910640,Oncology,North America,Community Outreach,15,14,Private Clinic,18-65,0.021,2.5
+1910641,Cardiology,Latin America,Online,12,11,Academic,40-80,0.06,3.2
+1910642,Endocrinology,Europe,Physician Referral,16,18,Hospital,30-70,0.08,4
+1910643,Neurology,Asia,Community Outreach,20,8,Private Clinic,18-40,0.013,1.7
+1910644,Oncology,North America,Online,14,12,Academic,18-65,0.02,2.7
+1910645,Cardiology,Europe,Physician Referral,17,15,Hospital,40-80,0.05,3.3
+1910646,Endocrinology,Asia,Community Outreach,13,20,Private Clinic,30-70,0.07,3.9
+1910647,Neurology,Latin America,Online,11,9,Academic,18-50,0.015,1.8
+1910648,Oncology,North America,Physician Referral,19,13,Hospital,18-65,0.03,2.8
+1910649,Cardiology,Africa,Community Outreach,15,7,Private Clinic,40-80,0.04,3
+1910650,Endocrinology,Europe,Online,12,16,Academic,30-70,0.08,4.2
+1910651,Neurology,Asia,Physician Referral,18,10,Hospital,18-40,0.013,1.6
+1910652,Oncology,North America,Community Outreach,14,14,Private Clinic,18-65,0.022,2.5
+1910653,Cardiology,Latin America,Online,16,11,Academic,40-80,0.05,3.4
+1910654,Endocrinology,Europe,Physician Referral,13,18,Hospital,30-70,0.07,4
+1910655,Neurology,Asia,Community Outreach,20,8,Private Clinic,18-50,0.011,1.7
+1910656,Oncology,North America,Online,12,15,Academic,18-65,0.02,2.6
+1910657,Cardiology,Europe,Physician Referral,17,12,Hospital,40-80,0.06,3.3
+1910658,Endocrinology,Africa,Community Outreach,15,20,Private Clinic,30-70,0.08,4.1
+1910659,Neurology,Latin America,Online,13,9,Academic,18-40,0.014,1.8
+1910660,Oncology,North America,Physician Referral,18,13,Hospital,18-65,0.03,2.9
+1910661,Cardiology,Asia,Community Outreach,14,7,Private Clinic,40-80,0.05,3.1
+1910662,Endocrinology,Europe,Online,11,16,Academic,30-70,0.09,4.3
+1910663,Neurology,Africa,Physician Referral,19,10,Hospital,18-50,0.012,1.6
+1910664,Oncology,North America,Community Outreach,15,14,Private Clinic,18-65,0.021,2.5
+1910665,Cardiology,Latin America,Online,12,11,Academic,40-80,0.06,3.2
+1910666,Endocrinology,Europe,Physician Referral,16,18,Hospital,30-70,0.08,4
+1910667,Neurology,Asia,Community Outreach,20,8,Private Clinic,18-40,0.013,1.7
+1910668,Oncology,North America,Online,14,12,Academic,18-65,0.02,2.7
+1910669,Cardiology,Europe,Physician Referral,17,15,Hospital,40-80,0.05,3.3
+1910670,Endocrinology,Asia,Community Outreach,13,20,Private Clinic,30-70,0.07,3.9
+1910671,Neurology,Latin America,Online,11,9,Academic,18-50,0.015,1.8
+1910672,Oncology,North America,Physician Referral,19,13,Hospital,18-65,0.03,2.8
+1910673,Cardiology,Africa,Community Outreach,15,7,Private Clinic,40-80,0.04,3
+1910674,Endocrinology,Europe,Online,12,16,Academic,30-70,0.08,4.2
+1910675,Neurology,Asia,Physician Referral,18,10,Hospital,18-40,0.013,1.6
+1910676,Oncology,North America,Community Outreach,14,14,Private Clinic,18-65,0.022,2.5
+1910677,Cardiology,Latin America,Online,16,11,Academic,40-80,0.05,3.4
+1910678,Endocrinology,Europe,Physician Referral,13,18,Hospital,30-70,0.07,4
+1910679,Neurology,Asia,Community Outreach,20,8,Private Clinic,18-50,0.011,1.7
+1910680,Oncology,North America,Online,12,15,Academic,18-65,0.02,2.6
+1910681,Cardiology,Europe,Physician Referral,17,12,Hospital,40-80,0.06,3.3
+1910682,Endocrinology,Africa,Community Outreach,15,20,Private Clinic,30-70,0.08,4.1
+1910683,Neurology,Latin America,Online,13,9,Academic,18-40,0.014,1.8
+1910684,Oncology,North America,Physician Referral,18,13,Hospital,18-65,0.03,2.9
+1910685,Cardiology,Asia,Community Outreach,14,7,Private Clinic,40-80,0.05,3.1
+1910686,Endocrinology,Europe,Online,11,16,Academic,30-70,0.09,4.3
+1910687,Neurology,Africa,Physician Referral,19,10,Hospital,18-50,0.012,1.6
+1910688,Oncology,North America,Community Outreach,15,14,Private Clinic,18-65,0.021,2.5
+1910689,Cardiology,Latin America,Online,12,11,Academic,40-80,0.06,3.2
+1910690,Endocrinology,Europe,Physician Referral,16,18,Hospital,30-70,0.08,4
+1910691,Neurology,Asia,Community Outreach,20,8,Private Clinic,18-40,0.013,1.7
+1910692,Oncology,North America,Online,14,12,Academic,18-65,0.02,2.7
+1910693,Cardiology,Europe,Physician Referral,17,15,Hospital,40-80,0.05,3.3
+1910694,Endocrinology,Asia,Community Outreach,13,20,Private Clinic,30-70,0.07,3.9
+1910695,Neurology,Latin America,Online,11,9,Academic,18-50,0.015,1.8
+1910696,Oncology,North America,Physician Referral,19,13,Hospital,18-65,0.03,2.8
+1910697,Cardiology,Africa,Community Outreach,15,7,Private Clinic,40-80,0.04,3
+1910698,Endocrinology,Europe,Online,12,16,Academic,30-70,0.08,4.2
+1910699,Neurology,Asia,Physician Referral,18,10,Hospital,18-40,0.013,1.6
+1910700,Oncology,North America,Community Outreach,14,14,Private Clinic,18-65,0.022,2.5
+1910701,Cardiology,Latin America,Online,16,11,Academic,40-80,0.05,3.4
+1910702,Endocrinology,Europe,Physician Referral,13,18,Hospital,30-70,0.07,4
+1910703,Neurology,Asia,Community Outreach,20,8,Private Clinic,18-50,0.011,1.7
+1910704,Oncology,North America,Online,12,15,Academic,18-65,0.02,2.6
+1910705,Cardiology,Europe,Physician Referral,17,12,Hospital,40-80,0.06,3.3
+1910706,Endocrinology,Africa,Community Outreach,15,20,Private Clinic,30-70,0.08,4.1
+1910707,Neurology,Latin America,Online,13,9,Academic,18-40,0.014,1.8
+1910708,Oncology,North America,Physician Referral,18,13,Hospital,18-65,0.03,2.9
+1910709,Cardiology,Asia,Community Outreach,14,7,Private Clinic,40-80,0.05,3.1
+1910710,Endocrinology,Europe,Online,11,16,Academic,30-70,0.09,4.3
+1910711,Neurology,Africa,Physician Referral,19,10,Hospital,18-50,0.012,1.6
+1910712,Oncology,North America,Community Outreach,15,14,Private Clinic,18-65,0.021,2.5
+1910713,Cardiology,Latin America,Online,12,11,Academic,40-80,0.06,3.2
+1910714,Endocrinology,Europe,Physician Referral,16,18,Hospital,30-70,0.08,4
+1910715,Neurology,Asia,Community Outreach,20,8,Private Clinic,18-40,0.013,1.7
+1910716,Oncology,North America,Online,14,12,Academic,18-65,0.02,2.7
+1910717,Cardiology,Europe,Physician Referral,17,15,Hospital,40-80,0.05,3.3
+1910718,Endocrinology,Asia,Community Outreach,13,20,Private Clinic,30-70,0.07,3.9
+1910719,Neurology,Latin America,Online,11,9,Academic,18-50,0.015,1.8
+1910720,Oncology,North America,Physician Referral,19,13,Hospital,18-65,0.03,2.8
+1910721,Cardiology,Africa,Community Outreach,15,7,Private Clinic,40-80,0.04,3
+1910722,Endocrinology,Europe,Online,12,16,Academic,30-70,0.08,4.2
+1910723,Neurology,Asia,Physician Referral,18,10,Hospital,18-40,0.013,1.6
+1910724,Oncology,North America,Community Outreach,14,14,Private Clinic,18-65,0.022,2.5
+1910725,Cardiology,Latin America,Online,16,11,Academic,40-80,0.05,3.4
+1910726,Endocrinology,Europe,Physician Referral,13,18,Hospital,30-70,0.07,4
+1910727,Neurology,Asia,Community Outreach,20,8,Private Clinic,18-50,0.011,1.7
+1910728,Oncology,North America,Online,12,15,Academic,18-65,0.02,2.6
+1910729,Cardiology,Europe,Physician Referral,17,12,Hospital,40-80,0.06,3.3
+1910730,Endocrinology,Africa,Community Outreach,15,20,Private Clinic,30-70,0.08,4.1
+1910731,Neurology,Latin America,Online,13,9,Academic,18-40,0.014,1.8
+1910732,Oncology,North America,Physician Referral,18,13,Hospital,18-65,0.03,2.9
+1910733,Cardiology,Asia,Community Outreach,14,7,Private Clinic,40-80,0.05,3.1
+1910734,Endocrinology,Europe,Online,11,16,Academic,30-70,0.09,4.3
+1910735,Neurology,Africa,Physician Referral,19,10,Hospital,18-50,0.012,1.6
+1910736,Oncology,North America,Community Outreach,15,14,Private Clinic,18-65,0.021,2.5
+1910737,Cardiology,Latin America,Online,12,11,Academic,40-80,0.06,3.2
+1910738,Endocrinology,Europe,Physician Referral,16,18,Hospital,30-70,0.08,4
+1910739,Neurology,Asia,Community Outreach,20,8,Private Clinic,18-40,0.013,1.7
+1910740,Oncology,North America,Online,14,12,Academic,18-65,0.02,2.7
+1910741,Cardiology,Europe,Physician Referral,17,15,Hospital,40-80,0.05,3.3
+1910742,Endocrinology,Asia,Community Outreach,13,20,Private Clinic,30-70,0.07,3.9
+1910743,Neurology,Latin America,Online,11,9,Academic,18-50,0.015,1.8
+1910744,Oncology,North America,Physician Referral,19,13,Hospital,18-65,0.03,2.8
+1910745,Cardiology,Africa,Community Outreach,15,7,Private Clinic,40-80,0.04,3
+1910746,Endocrinology,Europe,Online,12,16,Academic,30-70,0.08,4.2
+1910747,Neurology,Asia,Physician Referral,18,10,Hospital,18-40,0.013,1.6
+1910748,Oncology,North America,Community Outreach,14,14,Private Clinic,18-65,0.022,2.5
+1910749,Cardiology,Latin America,Online,16,11,Academic,40-80,0.05,3.4
+1910750,Endocrinology,Europe,Physician Referral,13,18,Hospital,30-70,0.07,4
+1910751,Neurology,Asia,Community Outreach,20,8,Private Clinic,18-50,0.011,1.7
+1910752,Oncology,North America,Online,12,15,Academic,18-65,0.02,2.6
+1910753,Cardiology,Europe,Physician Referral,17,12,Hospital,40-80,0.06,3.3
+1910754,Endocrinology,Africa,Community Outreach,15,20,Private Clinic,30-70,0.08,4.1
+1910755,Neurology,Latin America,Online,13,9,Academic,18-40,0.014,1.8
+1910756,Oncology,North America,Physician Referral,18,13,Hospital,18-65,0.03,2.9
+1910757,Cardiology,Asia,Community Outreach,14,7,Private Clinic,40-80,0.05,3.1
+1910758,Endocrinology,Europe,Online,11,16,Academic,30-70,0.09,4.3
+1910759,Neurology,Africa,Physician Referral,19,10,Hospital,18-50,0.012,1.6
+1910760,Oncology,North America,Community Outreach,15,14,Private Clinic,18-65,0.021,2.5
+1910761,Cardiology,Latin America,Online,12,11,Academic,40-80,0.06,3.2
+1910762,Endocrinology,Europe,Physician Referral,16,18,Hospital,30-70,0.08,4
+1910763,Neurology,Asia,Community Outreach,20,8,Private Clinic,18-40,0.013,1.7
+1910764,Oncology,North America,Online,14,12,Academic,18-65,0.02,2.7
+1910765,Cardiology,Europe,Physician Referral,17,15,Hospital,40-80,0.05,3.3
+1910766,Endocrinology,Asia,Community Outreach,13,20,Private Clinic,30-70,0.07,3.9
+1910767,Neurology,Latin America,Online,11,9,Academic,18-50,0.015,1.8
+1910768,Oncology,North America,Physician Referral,19,13,Hospital,18-65,0.03,2.8
+1910769,Cardiology,Africa,Community Outreach,15,7,Private Clinic,40-80,0.04,3
+1910770,Endocrinology,Europe,Online,12,16,Academic,30-70,0.08,4.2
+1910771,Neurology,Asia,Physician Referral,18,10,Hospital,18-40,0.013,1.6
+1910772,Oncology,North America,Community Outreach,14,14,Private Clinic,18-65,0.022,2.5
+1910773,Cardiology,Latin America,Online,16,11,Academic,40-80,0.05,3.4
+1910774,Endocrinology,Europe,Physician Referral,13,18,Hospital,30-70,0.07,4
+1910775,Neurology,Asia,Community Outreach,20,8,Private Clinic,18-50,0.011,1.7
+1910776,Oncology,North America,Online,12,15,Academic,18-65,0.02,2.6
+1910777,Cardiology,Europe,Physician Referral,17,12,Hospital,40-80,0.06,3.3
+1910778,Endocrinology,Africa,Community Outreach,15,20,Private Clinic,30-70,0.08,4.1
+1910779,Neurology,Latin America,Online,13,9,Academic,18-40,0.014,1.8
+1910780,Oncology,North America,Physician Referral,18,13,Hospital,18-65,0.03,2.9
+1910781,Cardiology,Asia,Community Outreach,14,7,Private Clinic,40-80,0.05,3.1
+1910782,Endocrinology,Europe,Online,11,16,Academic,30-70,0.09,4.3
+1910783,Neurology,Africa,Physician Referral,19,10,Hospital,18-50,0.012,1.6
+1910784,Oncology,North America,Community Outreach,15,14,Private Clinic,18-65,0.021,2.5
+1910785,Cardiology,Latin America,Online,12,11,Academic,40-80,0.06,3.2
+1910786,Endocrinology,Europe,Physician Referral,16,18,Hospital,30-70,0.08,4
+1910787,Neurology,Asia,Community Outreach,20,8,Private Clinic,18-40,0.013,1.7
+1910788,Oncology,North America,Online,14,12,Academic,18-65,0.02,2.7
+1910789,Cardiology,Europe,Physician Referral,17,15,Hospital,40-80,0.05,3.3
+1910790,Endocrinology,Asia,Community Outreach,13,20,Private Clinic,30-70,0.07,3.9
+1910791,Neurology,Latin America,Online,11,9,Academic,18-50,0.015,1.8
+1910792,Oncology,North America,Physician Referral,19,13,Hospital,18-65,0.03,2.8
+1910793,Cardiology,Africa,Community Outreach,15,7,Private Clinic,40-80,0.04,3
+1910794,Endocrinology,Europe,Online,12,16,Academic,30-70,0.08,4.2
+1910795,Neurology,Asia,Physician Referral,18,10,Hospital,18-40,0.013,1.6
+1910796,Oncology,North America,Community Outreach,14,14,Private Clinic,18-65,0.022,2.5
+1910797,Cardiology,Latin America,Online,16,11,Academic,40-80,0.05,3.4
+1910798,Endocrinology,Europe,Physician Referral,13,18,Hospital,30-70,0.07,4
+1910799,Neurology,Asia,Community Outreach,20,8,Private Clinic,18-50,0.011,1.7
+1910800,Oncology,North America,Online,12,15,Academic,18-65,0.02,2.6
+1910801,Cardiology,Europe,Physician Referral,17,12,Hospital,40-80,0.06,3.3
+1910802,Endocrinology,Africa,Community Outreach,15,20,Private Clinic,30-70,0.08,4.1
+1910803,Neurology,Latin America,Online,13,9,Academic,18-40,0.014,1.8
+1910804,Oncology,North America,Physician Referral,18,13,Hospital,18-65,0.03,2.9
+1910805,Cardiology,Asia,Community Outreach,14,7,Private Clinic,40-80,0.05,3.1
+1910806,Endocrinology,Europe,Online,11,16,Academic,30-70,0.09,4.3
+1910807,Neurology,Africa,Physician Referral,19,10,Hospital,18-50,0.012,1.6
+1910808,Oncology,North America,Community Outreach,15,14,Private Clinic,18-65,0.021,2.5
+1910809,Cardiology,Latin America,Online,12,11,Academic,40-80,0.06,3.2
+1910810,Endocrinology,Europe,Physician Referral,16,18,Hospital,30-70,0.08,4
+1910811,Neurology,Asia,Community Outreach,20,8,Private Clinic,18-40,0.013,1.7
+1910812,Oncology,North America,Online,14,12,Academic,18-65,0.02,2.7
+1910813,Cardiology,Europe,Physician Referral,17,15,Hospital,40-80,0.05,3.3
+1910814,Endocrinology,Asia,Community Outreach,13,20,Private Clinic,30-70,0.07,3.9
+1910815,Neurology,Latin America,Online,11,9,Academic,18-50,0.015,1.8
+1910816,Oncology,North America,Physician Referral,19,13,Hospital,18-65,0.03,2.8
+1910817,Cardiology,Africa,Community Outreach,15,7,Private Clinic,40-80,0.04,3
+1910818,Endocrinology,Europe,Online,12,16,Academic,30-70,0.08,4.2
+1910819,Neurology,Asia,Physician Referral,18,10,Hospital,18-40,0.013,1.6
+1910820,Oncology,North America,Community Outreach,14,14,Private Clinic,18-65,0.022,2.5
+1910821,Cardiology,Latin America,Online,16,11,Academic,40-80,0.05,3.4
+1910822,Endocrinology,Europe,Physician Referral,13,18,Hospital,30-70,0.07,4
+1910823,Neurology,Asia,Community Outreach,20,8,Private Clinic,18-50,0.011,1.7
+1910824,Oncology,North America,Online,12,15,Academic,18-65,0.02,2.6
+1910825,Cardiology,Europe,Physician Referral,17,12,Hospital,40-80,0.06,3.3
+1910826,Endocrinology,Africa,Community Outreach,15,20,Private Clinic,30-70,0.08,4.1
+1910827,Neurology,Latin America,Online,13,9,Academic,18-40,0.014,1.8
+1910828,Oncology,North America,Physician Referral,18,13,Hospital,18-65,0.03,2.9
+1910829,Cardiology,Asia,Community Outreach,14,7,Private Clinic,40-80,0.05,3.1
+1910830,Endocrinology,Europe,Online,11,16,Academic,30-70,0.09,4.3
+1910831,Neurology,Africa,Physician Referral,19,10,Hospital,18-50,0.012,1.6
+1910832,Oncology,North America,Community Outreach,15,14,Private Clinic,18-65,0.021,2.5
+1910833,Cardiology,Latin America,Online,12,11,Academic,40-80,0.06,3.2
+1910834,Endocrinology,Europe,Physician Referral,16,18,Hospital,30-70,0.08,4
+1910835,Neurology,Asia,Community Outreach,20,8,Private Clinic,18-40,0.013,1.7
+1910836,Oncology,North America,Online,14,12,Academic,18-65,0.02,2.7
+1910837,Cardiology,Europe,Physician Referral,17,15,Hospital,40-80,0.05,3.3
+1910838,Endocrinology,Asia,Community Outreach,13,20,Private Clinic,30-70,0.07,3.9
+1910839,Neurology,Latin America,Online,11,9,Academic,18-50,0.015,1.8
+1910840,Oncology,North America,Physician Referral,19,13,Hospital,18-65,0.03,2.8
+1910841,Cardiology,Africa,Community Outreach,15,7,Private Clinic,40-80,0.04,3
+1910842,Endocrinology,Europe,Online,12,16,Academic,30-70,0.08,4.2
+1910843,Neurology,Asia,Physician Referral,18,10,Hospital,18-40,0.013,1.6
+1910844,Oncology,North America,Community Outreach,14,14,Private Clinic,18-65,0.022,2.5
+1910845,Cardiology,Latin America,Online,16,11,Academic,40-80,0.05,3.4
+1910846,Endocrinology,Europe,Physician Referral,13,18,Hospital,30-70,0.07,4
+1910847,Neurology,Asia,Community Outreach,20,8,Private Clinic,18-50,0.011,1.7
+1910848,Oncology,North America,Online,12,15,Academic,18-65,0.02,2.6
+1910849,Cardiology,Europe,Physician Referral,17,12,Hospital,40-80,0.06,3.3
+1910850,Endocrinology,Africa,Community Outreach,15,20,Private Clinic,30-70,0.08,4.1
+1910851,Neurology,Latin America,Online,13,9,Academic,18-40,0.014,1.8
+1910852,Oncology,North America,Physician Referral,18,13,Hospital,18-65,0.03,2.9
+1910853,Cardiology,Asia,Community Outreach,14,7,Private Clinic,40-80,0.05,3.1
+1910854,Endocrinology,Europe,Online,11,16,Academic,30-70,0.09,4.3
+1910855,Neurology,Africa,Physician Referral,19,10,Hospital,18-50,0.012,1.6
+1910856,Oncology,North America,Community Outreach,15,14,Private Clinic,18-65,0.021,2.5
+1910857,Cardiology,Latin America,Online,12,11,Academic,40-80,0.06,3.2
+1910858,Endocrinology,Europe,Physician Referral,16,18,Hospital,30-70,0.08,4
+1910859,Neurology,Asia,Community Outreach,20,8,Private Clinic,18-40,0.013,1.7
+1910860,Oncology,North America,Online,14,12,Academic,18-65,0.02,2.7
+1910861,Cardiology,Europe,Physician Referral,17,15,Hospital,40-80,0.05,3.3
+1910862,Endocrinology,Asia,Community Outreach,13,20,Private Clinic,30-70,0.07,3.9
+1910863,Neurology,Latin America,Online,11,9,Academic,18-50,0.015,1.8
+1910864,Oncology,North America,Physician Referral,19,13,Hospital,18-65,0.03,2.8
+1910865,Cardiology,Africa,Community Outreach,15,7,Private Clinic,40-80,0.04,3
+1910866,Endocrinology,Europe,Online,12,16,Academic,30-70,0.08,4.2
+1910867,Neurology,Asia,Physician Referral,18,10,Hospital,18-40,0.013,1.6
+1910868,Oncology,North America,Community Outreach,14,14,Private Clinic,18-65,0.022,2.5
+1910869,Cardiology,Latin America,Online,16,11,Academic,40-80,0.05,3.4
+1910870,Endocrinology,Europe,Physician Referral,13,18,Hospital,30-70,0.07,4
+1910871,Neurology,Asia,Community Outreach,20,8,Private Clinic,18-50,0.011,1.7
+1910872,Oncology,North America,Online,12,15,Academic,18-65,0.02,2.6
+1910873,Cardiology,Europe,Physician Referral,17,12,Hospital,40-80,0.06,3.3
+1910874,Endocrinology,Africa,Community Outreach,15,20,Private Clinic,30-70,0.08,4.1
+1910875,Neurology,Latin America,Online,13,9,Academic,18-40,0.014,1.8
+1910876,Oncology,North America,Physician Referral,18,13,Hospital,18-65,0.03,2.9
+1910877,Cardiology,Asia,Community Outreach,14,7,Private Clinic,40-80,0.05,3.1
+1910878,Endocrinology,Europe,Online,11,16,Academic,30-70,0.09,4.3
+1910879,Neurology,Africa,Physician Referral,19,10,Hospital,18-50,0.012,1.6
+1910880,Oncology,North America,Community Outreach,15,14,Private Clinic,18-65,0.021,2.5
+1910881,Cardiology,Latin America,Online,12,11,Academic,40-80,0.06,3.2
